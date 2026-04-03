@@ -15,6 +15,7 @@ Parameters:
 Executable:
   name: EQLogParser
   file: EQLogParser.exe
+  icon: EQLogParser.ico
   path: Program Files/EQLogParser/EQLogParser.exe
 
 Steps:
